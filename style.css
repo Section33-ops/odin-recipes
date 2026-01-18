@@ -1,3 +1,8 @@
+* {
+  background-color: teal;
+  color: white;
+}
+
 .recipe_list {
   font-size: 16px;
 }
